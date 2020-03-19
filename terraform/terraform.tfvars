@@ -1,0 +1,7 @@
+region = "West Europe"
+vm_username = "eve"
+vm_size = "Standard_D1_v2"
+#vm_size = "Standard_D8_v3"
+disk_size = "64"
+vm_ip = "10.0.1.10"
+name = "eve"
